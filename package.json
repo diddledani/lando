@@ -108,7 +108,7 @@
     "eslint": "^4.15.0",
     "eslint-config-google": "^0.9.1",
     "gitbook-cli": "^2.3.0",
-    "highlight.js": "9.8.0",
+    "highlight.js": "10.4.1",
     "jsdoc-to-markdown": "^4.0.1",
     "leia-parser": "^0.3.4",
     "mocha": "^4.1.0",
