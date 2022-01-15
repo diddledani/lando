@@ -90,7 +90,7 @@
     "node-cache": "^4.1.1",
     "object-hash": "^1.1.8",
     "semver": "^5.4.1",
-    "shelljs": "0.7.8",
+    "shelljs": "0.8.5",
     "string-argv": "^0.1.1",
     "sudo-block": "^2.0.0",
     "uuid": "^3.2.1",
